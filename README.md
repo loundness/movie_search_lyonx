@@ -24,15 +24,15 @@ Pour tester cette application, importer le dossier sur votre pc, en suivant les 
 ```sh
 Importez dans votre dossier,
 
-git clone https://github.com/loundness/movie_search_lyonx
+$ git clone https://github.com/loundness/movie_search_lyonx
 
-puis cd movie_lyonx
+$ cd movie_lyonx
 
-bundle install --without production
+$ bundle install --without production
 
-rails db:migrate
+$ rails db:migrate
 
-rails server
+$ rails server
 ```
 
 Pour accéder à la page heroku, [voici le lien](https://movielyonx.herokuapp.com/)
