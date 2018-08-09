@@ -7,4 +7,8 @@ test:
 production:
   adapter: redis
   url: <%= ENV.fetch("REDIS_URL") { "redis://localhost:6379/1" } %>
+<<<<<<< HEAD
   channel_prefix: the_movie_production
+=======
+  channel_prefix: movie_lyonx_production
+>>>>>>> 3d0d3ae53608c4588497d82fa7c66d61bdb96aa2

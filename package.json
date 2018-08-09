@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "the_movie",
+=======
+  "name": "movie_lyonx",
+>>>>>>> 3d0d3ae53608c4588497d82fa7c66d61bdb96aa2
   "private": true,
   "dependencies": {}
 }

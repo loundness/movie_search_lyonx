@@ -6,7 +6,11 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
+<<<<<<< HEAD
 module TheMovie
+=======
+module MovieLyonx
+>>>>>>> 3d0d3ae53608c4588497d82fa7c66d61bdb96aa2
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.2
