@@ -1,7 +1,12 @@
-# # [Movie-Lyon x](https://movielyonx.herokuapp.com/)
+ # [Movie-Lyon x](https://movielyonx.herokuapp.com/)
 
-Ce Readme permet d'afficher le cours actuelle de la crypto-monnaie.
+Ce Readme permet de trouver un film, en fonction de votre recherche,
+vous trouverez dans les détails de votre recherche par film;
 
+* le nom du film
+* la date de sortie
+* le réalisateur
+* une image (s'il y en une)
 
 ------------------------------
 # On utilise;
@@ -16,7 +21,7 @@ Ce Readme permet d'afficher le cours actuelle de la crypto-monnaie.
 
 Pour tester cette application, importer le dossier sur votre pc, en suivant les instructions suivantes;
 
-```
+```sh
 Importez dans votre dossier,
 
 git clone https://github.com/willyGitHub18/services-lyon-x/releases
