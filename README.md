@@ -1,24 +1,34 @@
-# README
+# # [Movie-Lyon x](https://movielyonx.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ce Readme permet d'afficher le cours actuelle de la crypto-monnaie.
 
-Things you may want to cover:
 
-* Ruby version
+------------------------------
+# On utilise;
 
-* System dependencies
+* la base sqlite3
+* ruby '2.5.1'
+* gem 'rails', '~> 5.2.1'
 
-* Configuration
 
-* Database creation
+------------------------------
+# Instructions #
 
-* Database initialization
+Pour tester cette application, importer le dossier sur votre pc, en suivant les instructions suivantes;
 
-* How to run the test suite
+```
+Importez dans votre dossier,
 
-* Services (job queues, cache servers, search engines, etc.)
+git clone https://github.com/willyGitHub18/services-lyon-x/releases
 
-* Deployment instructions
+puis cd services-lyon-x
 
-* ...
+bundle install --without production
+
+rails db:migrate
+
+rails server
+```
+
+
+[lien heroku](https://movielyonx.herokuapp.com/)
