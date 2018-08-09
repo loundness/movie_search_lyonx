@@ -36,4 +36,4 @@ rails server
 ```
 
 
-[lien heroku](https://movielyonx.herokuapp.com/)
+[Pour accéder à la page heroku, voici le lien](https://movielyonx.herokuapp.com/)
