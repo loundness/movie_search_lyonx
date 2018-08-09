@@ -24,9 +24,9 @@ Pour tester cette application, importer le dossier sur votre pc, en suivant les 
 ```sh
 Importez dans votre dossier,
 
-git clone https://github.com/willyGitHub18/services-lyon-x/releases
+git clone https://github.com/loundness/movie_search_lyonx
 
-puis cd services-lyon-x
+puis cd movie_lyonx
 
 bundle install --without production
 
@@ -35,5 +35,5 @@ rails db:migrate
 rails server
 ```
 
+Pour accéder à la page heroku, [voici le lien](https://movielyonx.herokuapp.com/)
 
-[Pour accéder à la page heroku, voici le lien](https://movielyonx.herokuapp.com/)
